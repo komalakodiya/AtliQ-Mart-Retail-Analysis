@@ -151,8 +151,7 @@ Overall, the analysis provides valuable insights into the performance of promoti
 
 Explore the live Power BI dashboard for interactive visualizations:
 
-[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGZmYjUxOTAtYWViYS00MjAxLTg4YzQtYjE3MDQyNmUxYmU1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
+[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjExZTk0M2ItMTc3Yi00YmZjLTlkNDUtY2NiOWEzNjhiYThjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ## Future Work
 
 Future work could include:
