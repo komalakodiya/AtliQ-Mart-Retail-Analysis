@@ -121,10 +121,6 @@ select *,(total_revenue_AP - total_revenue_BP) as IR,
 from cte1)
 
 select product_name,category,`IR`,`IR%`, rank() over(order by`IR%` DESC ) as Rank_IR from cte2 limit 5
-
- # CTE1 - used Common_Table_Expression to determine the revenue before promotion and after promotion
- # CTE2 - to calculate the Incremental Revenue, Incremental Revenue %
- # RANK() - used window function to obtain the ranks of the categories based on their IR%
 ```
 
 ## Limitations and Challenges
